@@ -1,4 +1,4 @@
-# 🚀 你好，我是 [你的名字]
+# 🚀 你好，我是 [妈妈咪呀]
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=42A5F5&center=true&vCenter=true&width=435&lines=Full-stack+Developer;Open+Source+Enthusiast;Building+cool+things" alt="Typing SVG" />
