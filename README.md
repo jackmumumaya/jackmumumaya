@@ -9,19 +9,19 @@
 ### 📊 我的 GitHub 统计
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jackmumumaya&show_icons=true&theme=tokyonight" alt="Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jackmumumaya&layout=compact&theme=tokyonight" alt="Top Langs" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jackmumumaya&show_icons=true&theme=tokyonight" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jackmumumaya&layout=compact&theme=tokyonight" height="180em" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=jackmumumaya&theme=tokyonight" alt="Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jackmumumaya&theme=tokyonight" alt="jackmumumaya streak" />
 </p>
 
 ---
 
 ### 🏆 成就奖杯
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jackmumumaya&theme=onedark&column=7" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=jackmumumaya&theme=onedark&column=7&margin-w=15" alt="jackmumumaya trophies" />
 </p>
 
 ---
